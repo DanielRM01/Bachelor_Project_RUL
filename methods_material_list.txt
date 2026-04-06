@@ -1,0 +1,25 @@
+CNNs
+"Remaining useful life estimation in prognostics using deep convolution"
+"Deep Convolutional Neural Network Based Regression"
+"Going deeper with convolutions"
+
+
+RNNs (LSTM & GRU)
+"Recurrent neural networks for remaining useful life estimation"
+"Remaining useful life predictions for turbofan engine degradation using"
+"An Empirical Exploration of Recurrent Network Architectures"
+"An improved similarity-based prognostic algorithm for RUL estimation using"
+
+
+Deep Auto-encoder (DAE)
+"Anomaly Detection - A Multi-modal Deep Auto-encoder Approach"
+Variotional Auto-encoder (VAE)
+"Semi-supervised Learning with Deep Generative Models" 
+
+
+Graph NNs
+"Spatio-Temporal Graph Neural Networks: A Survey"
+(ASTGCNN & STAGNN)
+"Adaptive_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Remaining_Useful_Life_Estimation"
+"Spatio-Temporal Attention Graph Neural Network"
+This GitHub updates a list of papers for STNN: https://github.com/zeleny-ondrej/STNN-Daily-Arxiv
